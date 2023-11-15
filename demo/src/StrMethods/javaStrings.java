@@ -12,6 +12,7 @@ public class javaStrings {
 		String str3="";
 		String str4=" kashish nice girl ";
 		String str5="       kashish nice girl      ";
+		String str6="Test new chnages";
 		
 		System.out.println(str.length());//7 legth starts from 1 to nth num
 		System.out.println(str.toLowerCase());
